@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @poncelix
 - 👀 I’m interested in developer
-- 🌱 I’m currently learning js
+- 🌱 I’m currently react + vite
 - 💞️ I’m looking to collaborate on this world
 - 📫 How to reach me poncelix@gmail.com
 
